@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "_id": "Hamburger",
+      "image": "/images/Hamburger.jpg",
+      "price": 29.9,
+      "description": "A hamburger (or burger for short) is a food consisting of fillings —usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chilis; condiments such as ketchup, mustard, mayonnaise, relish, or a special sauce, often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger.",
+      "value": 2
+    },
+    {
+      "_id": "Cheeseburger",
+      "image": "/images/Cheeseburger.jpg",
+      "price": 18.9,
+      "description": "A cheeseburger is a hamburger topped with cheese. Traditionally, the slice of cheese is placed on top of the meat patty. The cheese is usually added to the cooking hamburger patty shortly before serving, which allows the cheese to melt. Cheeseburgers can include variations in structure, ingredients and composition. As with other hamburgers, a cheeseburger may include toppings such as lettuce, tomato, onion, pickles, bacon, mayonnaise, ketchup, and mustard.",
+      "value": 4
+    },
+    {
+      "_id": "McNuggets",
+      "image": "/images/McNuggets.jpg",
+      "price": 14.9,
+      "description": "Chicken McNuggets are a type of chicken nuggets sold by the international fast food restaurant chain McDonald's. They consist of small pieces of reconstituted boneless chicken meat that have been battered and deep fried.[1] Chicken McNuggets were conceived by Keystone Foods in the late 1970s eventually leading to their introduction in select markets in 1981.[2] The nuggets were made available worldwide by 1983 after the fixing of a supply issue. The formula was changed in 2016 to remove artificial preservatives and improve the nutritional value.",
+      "value": 4
+    },
+    {
+      "_id": "McWrap",
+      "image": "/images/McWrap.jpg",
+      "price": 7.9,
+      "description": "Chicken McNuggets are a type of chicken nuggets sold by the international fast food restaurant chain McDonald's. They consist of small pieces of reconstituted boneless chicken meat that have been battered and deep fried.[1] Chicken McNuggets were conceived by Keystone Foods in the late 1970s eventually leading to their introduction in select markets in 1981.[2] The nuggets were made available worldwide by 1983 after the fixing of a supply issue. The formula was changed in 2016 to remove artificial preservatives and improve the nutritional value.",
+      "value": 5
+    },
+    {
+      "_id": "McChicken",
+      "image": "/images/McChicken.jpg",
+      "price": 19.9,
+      "description": "Chicken McNuggets are a type of chicken nuggets sold by the international fast food restaurant chain McDonald's. They consist of small pieces of reconstituted boneless chicken meat that have been battered and deep fried.[1] Chicken McNuggets were conceived by Keystone Foods in the late 1970s eventually leading to their introduction in select markets in 1981.[2] The nuggets were made available worldwide by 1983 after the fixing of a supply issue. The formula was changed in 2016 to remove artificial preservatives and improve the nutritional value.",
+      "value": 1
+    },
+    {
+      "_id": "Big Tasty",
+      "image": "/images/BigTasty.jpg",
+      "price": 10.9,
+      "description": "Chicken McNuggets are a type of chicken nuggets sold by the international fast food restaurant chain McDonald's. They consist of small pieces of reconstituted boneless chicken meat that have been battered and deep fried.[1] Chicken McNuggets were conceived by Keystone Foods in the late 1970s eventually leading to their introduction in select markets in 1981.[2] The nuggets were made available worldwide by 1983 after the fixing of a supply issue. The formula was changed in 2016 to remove artificial preservatives and improve the nutritional value.",
+      "value": 4
+    }
+  ]
+}
